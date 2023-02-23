@@ -1,5 +1,7 @@
 body {
-
+	width: 600px;
+	margin:0;
+	height: 600px;
 }
 .Title{
 	position:relative;
